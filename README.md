@@ -1,7 +1,4 @@
 
-# Student Record Search System
-
-## Description
 A C++ based Student Record Search System that uses a Binary Search Tree (BST) to store, search, and manage student records.
 
 ## Features
@@ -23,14 +20,3 @@ Each student record contains:
 - Student Name
 - Department
 
-## Programming Language
-C++
-
-## Author
-Chinmay Swami
-
-## Roll Number
-2556444
-
-## Course
-B.Tech CSE
